@@ -27,4 +27,3 @@ public class prime_num
  
     }
 }
-Output:
