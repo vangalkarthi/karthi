@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class revowel
+public class reversevowel
 {
    public static void main(String args[])
    {
@@ -16,6 +16,6 @@ public class revowel
          reverse = reverse + str.charAt(i);
  
        String str1 = reverse.replaceAll("[aeiouAEIOU]", "");
-       System.out.print(reverse);
+       System.out.print(str1);
    }
 }
