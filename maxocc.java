@@ -25,5 +25,4 @@ class maxocc
  
        	 System.out.println(maxChar + " = " + maxCount);
  }
-
         
