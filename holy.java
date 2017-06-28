@@ -14,8 +14,6 @@ public static void main(String args[])
         {
             isHoliday = true;
         }
-
-        
-        return isHoliday;
+  return isHoliday;
     }
 }
