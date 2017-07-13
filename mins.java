@@ -5,15 +5,15 @@ public class DateUtil
     public static void main(String[] args)
     {
  
-        //Calendar1
+        
         Calendar cal1 = Calendar.getInstance();
         cal1.set(1995, 04, 3, 5, 0, 0);
  
-        //Calendar2
+        
         Calendar cal2 = Calendar.getInstance();
         cal2.set(2011, 07, 4, 6, 1, 1);
  
-        //Time Difference Calculations Begin
+       
         long milliSec1 = cal1.getTimeInMillis();
         long milliSec2 = cal2.getTimeInMillis();
  
