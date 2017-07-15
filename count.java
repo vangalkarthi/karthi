@@ -1,5 +1,4 @@
-import java.util.Scanner;
-class Numofdigit 
+class Numdigit
 {
 public static void main(String[] args) 
 {
